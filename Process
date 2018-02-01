@@ -1,0 +1,6 @@
+
+1. open a terminal, and directed to the folder where it has all zip files
+2. unzip all files to a destination folder
+unzip '*.zip' -d ../test/
+3. run geoboundary_check.py by:
+pythonw geoboundary_check.py fullpathoftheunzippedshapefilefolder
